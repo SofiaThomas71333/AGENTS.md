@@ -23,3 +23,4 @@ echo "AGENTS.md"
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # guard against empty input
+# drop an unused branch
